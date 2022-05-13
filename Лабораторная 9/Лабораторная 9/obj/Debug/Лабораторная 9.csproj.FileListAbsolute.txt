@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Учеба\3 курс\Моделирование\Лабораторная 9\Лабораторная 9\bin\Debug\Лабораторная 9.exe.config
+C:\Users\user\Desktop\Учеба\3 курс\Моделирование\Лабораторная 9\Лабораторная 9\bin\Debug\Лабораторная 9.exe
+C:\Users\user\Desktop\Учеба\3 курс\Моделирование\Лабораторная 9\Лабораторная 9\bin\Debug\Лабораторная 9.pdb
+C:\Users\user\Desktop\Учеба\3 курс\Моделирование\Лабораторная 9\Лабораторная 9\obj\Debug\Лабораторная 9.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Учеба\3 курс\Моделирование\Лабораторная 9\Лабораторная 9\obj\Debug\Лабораторная_9.Form1.resources
+C:\Users\user\Desktop\Учеба\3 курс\Моделирование\Лабораторная 9\Лабораторная 9\obj\Debug\Лабораторная_9.Properties.Resources.resources
+C:\Users\user\Desktop\Учеба\3 курс\Моделирование\Лабораторная 9\Лабораторная 9\obj\Debug\Лабораторная 9.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Учеба\3 курс\Моделирование\Лабораторная 9\Лабораторная 9\obj\Debug\Лабораторная 9.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Учеба\3 курс\Моделирование\Лабораторная 9\Лабораторная 9\obj\Debug\Лабораторная 9.exe
+C:\Users\user\Desktop\Учеба\3 курс\Моделирование\Лабораторная 9\Лабораторная 9\obj\Debug\Лабораторная 9.pdb
